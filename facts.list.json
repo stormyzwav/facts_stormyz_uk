@@ -1,1 +1,6 @@
-{"I use debian"}
+{
+  "facts": [
+    "I use debian",
+    "I'm working on an RSS Feed!"
+  ]
+}
