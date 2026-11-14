@@ -1,5 +1,5 @@
 {
-  facts: [
+  "facts": [
           "this is from my github repo. so this site is still static."
-        ]
+  ]
 }
